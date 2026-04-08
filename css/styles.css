@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.titulo{
+    color: rgb(0, 0, 80);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color:bisque;
+    padding: 5%;
+}
+
+.noticia{
+    width: 60%;
+    padding: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+img{
+    width: 70%;
+}
+.img-nota{
+    width: 60%;
+}
+
+.text-nota{
+    width: 40%;
+}
+.footer{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: grey;
+}
